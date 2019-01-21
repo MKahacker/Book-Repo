@@ -2,4 +2,4 @@
 
 Examples from *Learn to Program* by Chris Pine
 
-Mainly written in 'Ruby'
+Mainly written in `Ruby`
